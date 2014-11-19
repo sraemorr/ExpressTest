@@ -1,0 +1,23 @@
+{
+  "name": "ExpressTest",
+  "version": "1.0.0",
+  "description": "ExpressTest\r ===========",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sraemorr/ExpressTest.git"
+  },
+  "author": "Steph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sraemorr/ExpressTest/issues"
+  },
+  "homepage": "https://github.com/sraemorr/ExpressTest",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
