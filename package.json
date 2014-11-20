@@ -19,5 +19,11 @@
   "dependencies": {
     "express": "^4.10.2",
     "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "mocha-phantomjs": "^3.5.1",
+    "phantomjs": "^1.9.12"
   }
 }
