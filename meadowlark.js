@@ -35,7 +35,6 @@ app.get('/tours/request-group-rate', function(req, res){
 
 //custom 404 page
 app.use(function(req, res){
-
     res.status(404);
     res.render('404');
 });
